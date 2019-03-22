@@ -1,6 +1,6 @@
 # hello-world
 
-Hi Humans! and and your dogs...
+Hi Humans! and your dogs...
 
 I'm Jameson. I'm a freelance Python developer!
 However..
